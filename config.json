@@ -1,0 +1,33 @@
+{
+  "name": {
+    "zh-cn": "YJQ-Python常用组件",
+    "en": "YJQ-Python常用组件"
+  },
+  "description": {
+    "zh-cn": "Python模式下常用的组件",
+    "en": "Python模式下常用的组件"
+  },
+  "author": "MinecraftYJQ_",
+  "email": "liy_0924@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "Py_Lib",
+  "platform": [
+    "win",
+    "mac",
+    "web",
+    "linux"
+  ],
+  "version": "0.0.1",
+  "asset": {
+    "python": {
+      "dir": "python/",
+      "main": "main.ts",
+      "dependencies": {},
+      "files": [
+        "_images/featured.png",
+        "_images/icon.svg"
+      ]
+    }
+  }
+}
